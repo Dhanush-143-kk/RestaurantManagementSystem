@@ -4,6 +4,18 @@ A console-based **Restaurant Management System developed using Java**.
 This project demonstrates important Object-Oriented Programming (OOP) concepts such as **encapsulation, inheritance, polymorphism, abstraction, interfaces, method overloading, method overriding, static members, enums, and packages**.
 
 ---
+## Project Structure
+
+RestaurantManagementSystem/
+├── app/
+├── model/
+├── service/
+├── .gitignore
+├── Display_Menu.png
+├── Exit.png
+├── Opt 3&4.png
+├── Opt 5&6.png
+└── README.md
 
 ## 📌 Project Overview
 
@@ -62,3 +74,32 @@ The project follows an:
 
 ```text
 App → Service → Model
+
+
+## 🖥️ Console Output Screenshots
+
+The following screenshots demonstrate the execution and output of the Restaurant Management System.
+
+### 1. Display Menu
+
+Displays the available restaurant food items, prices, and availability status.
+
+![Display Menu](Display_Menu.png)
+
+### 2. Exit Application
+
+Shows the console output when the user exits the Restaurant Management System.
+
+![Exit Application](Exit.png)
+
+### 3. Options 3 and 4 — Customer Management and Place Order
+
+Demonstrates adding a customer and placing an order by selecting menu items.
+
+![Customer Management and Place Order](Opt%203%264.png)
+
+### 4. Options 5 and 6 — Employee Display and System Information
+
+Displays employee details and general information about the application.
+
+![Employee Display and System Information](Opt%205%266.png)
