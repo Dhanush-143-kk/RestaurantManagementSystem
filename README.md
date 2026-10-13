@@ -33,6 +33,12 @@ RestaurantManagementSystem/
 
 ---
 
+## 🏗️ System Architecture Diagram
+
+![Restaurant Management System Architecture](GitDiagram.png)
+
+[View Interactive GitDiagram](https://gitdiagram.com/dhanush-143-kk/restaurantmanagementsystem)
+
 ## 📌 Project Overview
 
 The Restaurant Management System is a Java console application designed to manage basic restaurant operations.
