@@ -102,23 +102,23 @@ Displays the available restaurant food items, prices, and availability status.
 
 ![Display Menu](Display_Menu.png)
 
-### 2. Exit Application
-
-Shows the console output when the user exits the Restaurant Management System.
-
-![Exit Application](Exit.png)
-
-### 3. Options 3 and 4 — Customer Management and Place Order
+### 2. Options 3 and 4 — Customer Management and Place Order
 
 Demonstrates adding a customer and placing an order by selecting menu items.
 
 ![Customer Management and Place Order](<Opt 3&4.png>)
 
-### 4. Options 5 and 6 — Employee Display and System Information
+### 3. Options 5 and 6 — Employee Display and System Information
 
 Displays employee details and general information about the application.
 
 ![Employee Display and System Information](<Opt 5&6.png>)
+
+### 4. Exit Application
+
+Shows the console output when the user exits the Restaurant Management System.
+
+![Exit Application](Exit.png)
 
 ---
 
